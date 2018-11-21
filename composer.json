@@ -3,10 +3,10 @@
     "description": "PHP Composter PHP Code Sniffer for WordPress Coding Standards",
     "type": "php-composter-action",
     "require": {
-        "php-composter/php-composter": "^0.3.0",
-        "squizlabs/php_codesniffer": "^3.3.0",
-        "wp-coding-standards/wpcs": "^1.0.0",
-        "dealerdirect/phpcodesniffer-composer-installer": "dev-master"
+		"php-composter/php-composter": "*",
+		"squizlabs/php_codesniffer": "*",
+		"wp-coding-standards/wpcs": "*",
+		"dealerdirect/phpcodesniffer-composer-installer": "*"
     },
     "license": "MIT",
     "authors": [
